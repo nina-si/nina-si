@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**nina-si/nina-si** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Some of my projects:
+- Virtual Piano
+https://github.com/nina-si/virtual-piano
+Basic JS project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Memory game 
+https://github.com/nina-si/match-match-game
+Typescript
+
+- Async Race
+https://github.com/nina-si/async-race
+
+
+- React Expenses Tracker:
+https://github.com/nina-si/react-expenses-tracker
+Basic React App
+
+- React Food Order
+https://github.com/nina-si/react-food-order
+React app with hooks
+
+
