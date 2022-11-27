@@ -1,25 +1,20 @@
 ### Hi there 👋
 
+I'm Nina, Frontend Developer and QA Engineer currently living in Berlin, Germany. I'm passionate about coding and languages learning.
+Feel free to reach me here:
 
-Some of my projects:
-- Virtual Piano
-https://github.com/nina-si/virtual-piano
-Basic JS project
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nina-sitaeva/)](https://www.linkedin.com/in/nina-sitaeva/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sitaeva.nn@gmail.com)](mailto:sitaeva.nn@gmail.com)
 
-- Memory game 
-https://github.com/nina-si/match-match-game
-Typescript
+## 👉 Skills
 
-- Async Race
-https://github.com/nina-si/async-race
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-
-- React Expenses Tracker:
-https://github.com/nina-si/react-expenses-tracker
-Basic React App
-
-- React Food Order
-https://github.com/nina-si/react-food-order
-React app with hooks
-
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nina-si&count_private=true&show_icons=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nina-si&hide=TeX&layout=compact)
