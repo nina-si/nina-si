@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nina, Frontend Developer and QA Engineer currently living in Berlin, Germany. I'm passionate about coding and languages learning.
+I'm Nina. I'm passionate about coding and languages learning.
 Feel free to reach me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nina-sitaeva/)](https://www.linkedin.com/in/nina-sitaeva/)
@@ -16,5 +16,4 @@ Feel free to reach me here:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nina-si&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nina-si&hide=TeX&layout=compact)
